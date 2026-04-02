@@ -14,6 +14,5 @@ Claude Code 的所有权利归 [Anthropic](https://www.anthropic.com/) 所有。
 
 
 ## 笔记
-- [本项目与clawdcode官方cli的区别是什么？]()
-- [如何在本地启动？]()
-- [如何使用？]()
+- [本项目与claudecode官方cli的区别是什么？](./cookbook/index.md#本项目与claudecode官方cli的区别是什么？)
+- [如何在本地启动？](./cookbook/index.md#如何在本地启动？)
