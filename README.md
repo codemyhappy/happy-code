@@ -15,5 +15,5 @@ main分支是cc源码
 Claude Code 的所有权利归 Anthropic 所有。
 
 ## 笔记
-[本项目与claudecode官方cli的区别是什么？](./cookbook/index.md#本项目与claudcode官方cli的区别是什么)
-[如何在本地启动？](./cookbook/index.md#如何在本地启动)
+- [本项目与claudecode官方cli的区别是什么？](./cookbook/index.md#本项目与claudcode官方cli的区别是什么)
+- [如何在本地启动？](./cookbook/index.md#如何在本地启动)
